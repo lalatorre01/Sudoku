@@ -1,4 +1,4 @@
-his app creates a Sudoku puzzle. 
+This Android app creates a Sudoku puzzle. 
 
 The app creates a random Sudoku puzzle, displays it on the screen, and lets the user solve it. 
 
